@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">PR23</string>
     <string name="todo">TODO</string>
-    <string name="string">Пропустить</string>
-    <string name="tests">Анализы</string>
+    <string name="skip">Пропустить</string>
+    <string name="labs_subheading">Вы быстро узнаете о результатах</string>
+    <string name="labs_text">Анализы</string>
 </resources>
