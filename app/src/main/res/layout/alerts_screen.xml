@@ -14,6 +14,7 @@
         android:layout_marginTop="40dp"
         android:background="@android:color/transparent"
         android:fontFamily="@font/latoreg"
+        android:onClick="skip_page"
         android:text="@string/skip"
         android:textAllCaps="false"
         android:textColor="#57A9FF"

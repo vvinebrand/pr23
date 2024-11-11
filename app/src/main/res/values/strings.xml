@@ -2,6 +2,7 @@
     <string name="app_name">PR23</string>
     <string name="todo">TODO</string>
     <string name="skip">Пропустить</string>
+    <string name="end">Завершить</string>
     <string name="labs_subheading">Экспресс сбор и получение проб</string>
     <string name="labs_text">Анализы</string>
     <string name="alerts_text">Уведомления</string>

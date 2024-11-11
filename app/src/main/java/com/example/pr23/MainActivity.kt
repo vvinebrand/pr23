@@ -1,5 +1,6 @@
 package com.example.pr23
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -18,6 +19,6 @@ import com.example.pr23.ui.theme.PR23Theme
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.labs_screen)
+        setContentView(R.layout.activity_labs_screen)
     }
 }
